@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "Adidas-Black.png",
+      "name": "Adidas",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5,
+      "color": "black"
+    },
+    {
+      "id": 2,
+      "image": "Adidas-Green.png",
+      "name": "Adidas",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "image": "Adidas-NavyBlue.png",
+      "name": "Adidas",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "image": "Adidas-White.png",
+      "name": "Adidas",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "image": "AXBlack.png",
+      "name": "Armani Exchange",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5,
+      "color": "white"
+    },
+    {
+      "id": 6,
+      "image": "AXGrey.png",
+      "name": "Armani Exchange",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "image": "AXRed.png",
+      "name": "Armani Exchange",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "image": "AXWhite.png",
+      "name": "Armani Exchange",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "image": "BigPABlack.png",
+      "name": "Angels",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "image": "BigPaGrey.png",
+      "name": "Angels",
+      "description": "Turkish Premium Cotton",
+      "price": 7,
+      "inventoryStatus": "INSTOCK",
+      "category": "Shirt",
+      "rating": 5
+    }
+  ]
+}
