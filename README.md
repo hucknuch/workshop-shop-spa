@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
+## Workshop Instructions
+
+In this workshop, we will be building a storefront website for selling clothes. The repository has been set up with the basic groundwork, including the installation of all dependencies you will need to build the project.
+
+### Requirements
+
+- Retrieve the list of products from the `assets/products.json` file.
+- Manage the Create, Read, Update, and Delete (CRUD) operations of data using the [NgRx](https://ngrx.io/guide/store) state management solution.
+- Display the list of products by utilizing the Data View component from [PrimeNG](https://primeng.org/dataview#layout).
+- Implement cart functionality that allows users to select items from the product list and add them to their cart. Additionally, enable users to manage the contents of their cart from a separate cart view.
+
+## Setup Steps
+
+- Clone repository from this [URL](https://github.com/Khousheish/workshop-shop-spa).
+- Install dependencies `npm i`.
+- Run application `ng serve -o`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
