@@ -17,10 +17,12 @@ export class AppComponent {
     {
       label: 'Shop',
       icon: 'pi pi-home',
+      routerLink: '/',
     },
     {
       label: 'Cart',
       icon: 'pi pi-shopping-cart',
+      routerLink: '/cart',
     },
   ];
 }
