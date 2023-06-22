@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
-## Workshop Instructions
+## Workshop instructions
 
 In this workshop, we will be building a storefront website for selling clothes. The repository has been set up with the basic groundwork, including the installation of all dependencies you will need to build the project.
 
@@ -13,11 +13,16 @@ In this workshop, we will be building a storefront website for selling clothes. 
 - Display the list of products by utilizing the Data View component from [PrimeNG](https://primeng.org/dataview#layout).
 - Implement cart functionality that allows users to select items from the product list and add them to their cart. Additionally, enable users to manage the contents of their cart from a separate cart view.
 
-## Setup Steps
+## Setup steps
 
-- Clone repository from this [URL](https://github.com/Khousheish/workshop-shop-spa).
+- Fork repository from this [URL](https://github.com/Khousheish/workshop-shop-spa).
+- Clone repository from the generated fork.
 - Install dependencies `npm i`.
 - Run application `ng serve -o`.
+
+## Submission steps
+
+To submit your solution for review, create a branch with your name and push it to your fork. Then from the main repository create a pull request to `main` and add [@khousheish](https://github.com/Khousheish) as a reviewer.
 
 ## Development server
 
