@@ -7,9 +7,7 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
-      "rating": 5,
-      "color": "black"
+      "rating": 5
     },
     {
       "id": 2,
@@ -18,7 +16,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -28,7 +25,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -38,7 +34,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -48,9 +43,7 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
-      "rating": 5,
-      "color": "white"
+      "rating": 5
     },
     {
       "id": 6,
@@ -59,7 +52,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -69,7 +61,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -79,7 +70,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -89,7 +79,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     },
     {
@@ -99,7 +88,6 @@
       "description": "Turkish Premium Cotton",
       "price": 7,
       "inventoryStatus": "INSTOCK",
-      "category": "Shirt",
       "rating": 5
     }
   ]
